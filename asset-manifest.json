@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/trippy-self-project/static/css/main.e2dfb3c4.css",
+    "main.js": "/trippy-self-project/static/js/main.1b6e6ebf.js",
+    "static/js/787.80efab00.chunk.js": "/trippy-self-project/static/js/787.80efab00.chunk.js",
+    "static/media/citybg.jpg": "/trippy-self-project/static/media/citybg.14f0cd87673016b29c99.jpg",
+    "static/media/aboutusimage.jpg": "/trippy-self-project/static/media/aboutusimage.ef6eaf25448e8f733009.jpg",
+    "static/media/service2img.jpg": "/trippy-self-project/static/media/service2img.6aa55458bc2b30881995.jpg",
+    "static/media/2.jpg": "/trippy-self-project/static/media/2.bbb41348bb839b9124d8.jpg",
+    "static/media/desks.jpg": "/trippy-self-project/static/media/desks.51a329539d3724185d5d.jpg",
+    "static/media/1.jpg": "/trippy-self-project/static/media/1.509d4d795248ac9962f3.jpg",
+    "static/media/8.jpg": "/trippy-self-project/static/media/8.9d1ddd2ceb0e8def6f48.jpg",
+    "static/media/10.jpg": "/trippy-self-project/static/media/10.b4cae24d2bff7fc2e5f0.jpg",
+    "static/media/9.jpg": "/trippy-self-project/static/media/9.38f6e89ddfed54feaf50.jpg",
+    "static/media/5.jpg": "/trippy-self-project/static/media/5.46b372902997b3fbd648.jpg",
+    "static/media/4.jpg": "/trippy-self-project/static/media/4.0c7885e97d08f0a61db1.jpg",
+    "index.html": "/trippy-self-project/index.html",
+    "main.e2dfb3c4.css.map": "/trippy-self-project/static/css/main.e2dfb3c4.css.map",
+    "main.1b6e6ebf.js.map": "/trippy-self-project/static/js/main.1b6e6ebf.js.map",
+    "787.80efab00.chunk.js.map": "/trippy-self-project/static/js/787.80efab00.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2dfb3c4.css",
+    "static/js/main.1b6e6ebf.js"
+  ]
+}
